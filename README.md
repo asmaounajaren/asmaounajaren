@@ -21,7 +21,7 @@ For me, data isn't just numbers — it's the foundation of innovation and meanin
 
 ### 🌱 Currently...
 
-- 🌱 I’m learning **advanced Deep Learning techniques** (Transformers, GANs) and exploring **MLOps**  
+- 🌱 I’m learning about **Large Language Models (LLMs)** and exploring the potential of **AI agents** for building autonomous, intelligent systems
 - 👯 I’m open to collaborating on **AI-driven projects** in **healthcare**, **agriculture**, and **social impact**  
 - 🤔 I’d love help navigating **production-level ML pipelines** and **contributing to open source**  
 - 💬 Ask me about **Machine Learning**, **Big Data**, **Deep Learning**, or how to integrate AI into full-stack apps  
