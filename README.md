@@ -5,7 +5,7 @@
 </p>
 
 
-🎓 **Big Data & AI Graduate** | 🧠 **Machine Learning Enthusiast** | 🌱 **Problem Solver**
+### 🎓 **Big Data & AI Graduate** | 🧠 **Machine Learning Enthusiast** | 🌱 **Problem Solver**
 
 I'm a fresh graduate passionate about building smart systems that drive real-world impact.  
 For me, data isn't just numbers — it's the foundation of innovation and meaningful change.
