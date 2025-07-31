@@ -16,7 +16,7 @@ For me, data isn't just numbers — it's the foundation of innovation and meanin
 - 🔧 I love turning **raw data into actionable insights**
 - 🤖 I'm passionate about building **intelligent systems** using Machine Learning and Deep Learning
 - 🌐 I bring AI to life through **intuitive web interfaces**
-- 🌍 I tackle real challenges — from **sustainable agriculture** to **emotion analysis**
+- 🌍 I tackle real challenges — from **sustainable agriculture** to **emotion analysis**...
 
 
 ### 🌱 Currently...
